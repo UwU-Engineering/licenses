@@ -1,0 +1,40 @@
+UwU LLM CONTRIBUTION AND RECOGNITION PERMISSIVE License
+Adapted from the BSD-3-Clause license: https://opensource.org/license/bsd-3-clause
+
+Human contributors:
+- The original authors of materials used to train the large language models utilized in the development process
+- NAME OR HANDLE <EMAIL ADDRESS>
+
+Large language models involved:
+- MODEL NAME, VERSION, and LLM PROVIDER
+
+To the extent that any of the human contributors are legally, within each of their respective jurisdictions, able to
+claim any rights to stewardship of the blended end-product of humans and large language models (LLMs), they offer
+their permission to redistribute and use the included software, in source and binary forms, provided the following
+conditions are met:
+
+1. Redistributions of source code must retain the above acknowledgments, this list of conditions and the following
+legal disclaimer and ethical statement.
+
+2. Redistributions in binary form must reproduce the above acknowledgments, this list of conditions and the following
+legal disclaimer and ethical statement in the documentation and/or other materials provided with the distribution.
+
+3. Neither the names of the human contributors nor the names and tradmarks of the LLM providers may be used to endorse
+or promote products derived from this software without specific prior written permission. Listing of LLM providers and
+their models used above does not constitute an endorsement. Models are listed strictly as a matter of transparency.
+
+THIS SOFTWARE IS PROVIDED BY THE HUMAN CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE HUMAN CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+Humans who have participated and added their names to this license as contributors agree that, notwithstanding the
+still ambiguous legalities, it would be unethical to claim copyright over machine-synthesized output that is the
+end-product of model training using materials from unknown sources. In multiple instances, source materials may
+(allegedly) have been obtained illegally via software piracy and/or (allegedly) nonconsensual data harvesting. If that
+is the case it would likely infringe on the rights of original copyright holders. In the absence of those hidden
+figures' names, human contributors to this software believe it is the responsibility of all LLM-using contributors to
+act as stewards rather than claim ownership to the work produced.
